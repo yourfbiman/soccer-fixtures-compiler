@@ -1,0 +1,7 @@
+- good ideas for classes to make: (team class, fixture class)
+- take input files of a list of teams and use those to make a fixture list
+- as an aside to above: make a program that allows a user to make an input file in that format
+- assign fixtures based on allowed dates, avoid close teams having home games on the same day, and other rules from the prem article
+- prem fixture compiler article:  https://www.premierleague.com/news/261976 
+- output a repository that stores 38 files, each file having the 10 fixtures for a respective matchweek, for a total of 380 fixtures
+- maybe also use some html stuff to make this a working website? idk
